@@ -1,2 +1,2 @@
-# k8s-gitops-argo
-Kubernetes GitOps repo based on Argo
+# k8s-gitops-flux
+Kubernetes GitOps repo based on Flux
